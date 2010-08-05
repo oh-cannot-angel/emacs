@@ -1,0 +1,3 @@
+;; -*- mode: emacs-lisp -*-
+;; History entries used for anything adaptive display.
+(setq anything-c-adaptive-history (quote ((command ("View-goto-line" ("line.?" . 1)) ("view-emacs-news" ("emacs" . 1)) ("frame-configuration-to-register" ("confi" . 1)) ("Info-goto-emacs-command-node" (".emacs" . 1))))))
